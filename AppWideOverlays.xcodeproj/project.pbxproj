@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		41A8FF862CD1D61D005BC906 /* abdemo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 41A8FF852CD1D61D005BC906 /* abdemo.mp4 */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		41A8FF662CD1CA71005BC906 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		41A8FF552CD1CA70005BC906 /* AppWideOverlays.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppWideOverlays.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		41A8FF652CD1CA71005BC906 /* AppWideOverlaysTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppWideOverlaysTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41A8FF6F2CD1CA71005BC906 /* AppWideOverlaysUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppWideOverlaysUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		41A8FF852CD1D61D005BC906 /* abdemo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = abdemo.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		41A8FF4C2CD1CA70005BC906 = {
 			isa = PBXGroup;
 			children = (
+				41A8FF852CD1D61D005BC906 /* abdemo.mp4 */,
 				41A8FF572CD1CA70005BC906 /* AppWideOverlays */,
 				41A8FF682CD1CA71005BC906 /* AppWideOverlaysTests */,
 				41A8FF722CD1CA71005BC906 /* AppWideOverlaysUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41A8FF862CD1D61D005BC906 /* abdemo.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
